@@ -1,0 +1,4 @@
+#Fri Sep 18 20:13:59 BRT 2020
+base.0=C\:\\Users\\pinhe\\Documents\\futter-projects\\gif_creator2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
